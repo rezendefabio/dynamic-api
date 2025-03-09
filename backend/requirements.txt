@@ -1,0 +1,7 @@
+fastapi==0.103.2  # Versão mais recente do FastAPI
+uvicorn==0.23.2   # Servidor ASGI
+sqlalchemy==2.0.21
+psycopg2-binary==2.9.9
+pydantic==2.5.3   # Versão mais recente do Pydantic
+python-jose[cryptography]==3.3.0
+passlib==1.7.4
